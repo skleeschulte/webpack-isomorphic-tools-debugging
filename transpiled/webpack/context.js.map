@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/webpack/context.js"],"names":[],"mappings":";;;;;;AAAA;;;;;;;AAGA,IAAM,UAAU,eAAK,IAAL,CAAU,SAAV,EAAqB,OAArB,CAAV;;kBAES","file":"context.js","sourcesContent":["import path from 'path'\r\n\r\n// project root:\r\nconst context = path.join(__dirname, '../..');\r\n\r\nexport default context\r\n"]}
